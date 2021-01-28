@@ -1,8 +1,9 @@
 #!/bin/bash
 
-mkdir /opt/mycompany
+//mkdir /opt/mycompany
 
-cd mycompany
+//cd mycompany
+date
 touch team "iam new one "
 
 
