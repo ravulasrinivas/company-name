@@ -1,10 +1,10 @@
 #!/bin/bash
 
 sh "cd /opt/"
-sh "mkdir myspace"
-sh "cd myspace"
-sh "touch abc.file"
+sh "cd bk"
+sh "touch abc.txt"
 
+echo "i have created file abc"
 date
 
 
