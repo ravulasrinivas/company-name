@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sh "cd /opt/"
+sh "cd /opt"
 sh "cd bk"
 sh "touch abc.txt"
 
