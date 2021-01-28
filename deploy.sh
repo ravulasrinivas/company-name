@@ -1,7 +1,7 @@
 #!/bin/bash
 
-sh "cd /opt"
-sh "cd bk"
+sh "cd /opt/bk"
+
 sh "touch abc.txt"
 
 echo "i have created file abc"
