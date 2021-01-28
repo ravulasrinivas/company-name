@@ -1,3 +1,6 @@
-#!/bin/sh
+#!/bin/bash
 
-mkdir /opt/team
+
+date
+touch team "iam new one "
+
